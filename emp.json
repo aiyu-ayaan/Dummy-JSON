@@ -791,7 +791,520 @@
     "portrait": "portraits/admin.jpg",
     "thumbnail": "portraits/admin-thumb.jpg"
   },
-  
+  {
+      "username": "uk",
+      "password": "uk",
+      "name": {
+        "first": "Shir UK",
+        "last": "Vishwakarma"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "ukvishwakarma@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": "0651-2483101"
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state":"Delhi",
+        "zip": "110092"
+      },
+      "roles": ["Executive Director"],
+      "department": "",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    
+    {
+      "username": "pradumn",
+      "password": "pradumn",
+      "name": {
+        "first": "Shir Pradumn Kumar", 
+        "last": "Dixit"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "pkdixit@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": "080 -26252153"
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state": "Delhi", 
+        "zip": "110092"
+      },
+      "roles": ["Chief General Manager"],
+      "department": "CGD",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "indrani",
+      "password": "indrani",
+      "name": {
+        "first": "Shir Indrani",
+        "last": "Sen"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "indranilsen@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state": "Delhi",
+        "zip": "110092"
+      },
+      "roles": ["Chief General Manager"],
+      "department": "Oil & Gas",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "ajay",
+      "password": "ajay",
+      "name": {
+        "first": "Shir Ajay",
+        "last": "Kumar"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "ajaykumar@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state": "Delhi",
+        "zip": "110092"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Civil",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "manoj",
+      "password": "manoj",
+      "name": {
+        "first": "Shir Manoj Kumar", 
+        "last": "Chaturvedi"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "mkchaturvedi@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state":"Delhi",
+        "zip": "110092"
+      },
+      "roles": ["Executive Director"],
+      "department": "",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    
+    {
+      "username": "rajeev",
+      "password": "rajeev",
+      "name": {
+        "first": "Shir Rajeev", 
+        "last": "Shukla"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "rshukla@mecon.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state": "Delhi", 
+        "zip": "110092"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Vigilance",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "rakesh",
+      "password": "rakesh",
+      "name": {
+        "first": "Shir Rakesh",
+        "last": "Sharma"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "rakeshsharma@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Delhi",
+        "state": "Delhi",
+        "zip": "110092"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Contracts",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "amit",
+      "password": "amit",
+      "name": {
+        "first": "Shir Amit", 
+        "last": "Pal"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "amitpal@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Kolkata",
+        "state":"West Bengal",
+        "zip": "700156"
+      },
+      "roles": ["Chief General Manager"],
+      "department": "",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "n",
+      "password": "n",
+      "name": {
+        "first": "Shir N", 
+        "last": "Kumar"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "neerajkumar@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Nagarnar",
+        "state":"Chhattisgarh",
+        "zip": "494001"
+      },
+      "roles": ["Executive Director I/c"],
+      "department": "",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    
+    {
+      "username": "manoranjan",
+      "password": "manoranjan",
+      "name": {
+        "first": "Dr. Manoranjan", 
+        "last": "Biswas"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "mbiswas@meconlimied.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Nagarnar",
+        "state": "Chhattisgarh", 
+        "zip": "494001"
+      },
+      "roles": ["Executive Director"],
+      "department": "IR & Safety",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "shyamal",
+      "password": "shyamal",
+      "name": {
+        "first": "Shir Shyamal Kumar",
+        "last": "Dey"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "skdey@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Nagarnar",
+        "state": "Chhattisgarh",
+        "zip": "494001"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Steel Making",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "jiban",
+      "password": "jiban",
+      "name": {
+        "first": "Shir Jiban Kishore", 
+        "last": "Patra"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "patrajk@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Nagarnar",
+        "state": "Chhattisgarh",
+        "zip": "494001"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "C & C",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "k",
+      "password": "k",
+      "name": {
+        "first": "Shir K", 
+        "last": "Balakrishnan"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "kbalakrishnan@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Nagarnar",
+        "state": "Chhattisgarh",
+        "zip": "494001"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Material Handling",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "s",
+      "password": "s",
+      "name": {
+        "first": "Shir S", 
+        "last": "Saravanan"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "ssaravanan@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": "0253 4052162"
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Navi Mumbai",
+        "state":"Maharashtra",
+        "zip": "400703"
+      },
+      "roles": ["Senior General Manager"],
+      "department": "Civil",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    
+    {
+      "username": "krishna",
+      "password": "krishna",
+      "name": {
+        "first": "Krishna Kumar", 
+        "last": "G"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "gkrishnakumar@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": "022-27812160"
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Navi Mumbai",
+        "state": "Maharashtra", 
+        "zip": "400703"
+      },
+      "roles": ["General Manager I/c"],
+      "department": "",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "a",
+      "password": "a",
+      "name": {
+        "first": "Shir A",
+        "last": "Mishra"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "mishraamitav@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": "0661 - 2510134"
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Rourkela",
+        "state": "Odisha",
+        "zip": "769011"
+      },
+      "roles": ["Chief General Manager"],
+      "department": "Steel Making",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
+    {
+      "username": "chinnam",
+      "password": "chinnam",
+      "name": {
+        "first": "Shir Chinnam", 
+        "last": "Madhu"
+      },
+      "ssn": "123-45-6789",
+      "dob": "1900-01-01T06:00:00.000Z",
+      "hiredOn": "1900-01-01T06:00:00.000Z",
+      "terminatedOn": null,
+      "email": "cmadhu@meconlimited.co.in",
+      "phones": [
+        {
+          "type": "office",
+          "number": ""
+        }
+      ],
+      "address": {
+        "street": "",
+        "city": "Vishakhapatnam",
+        "state": "Andhra Pradesh",
+        "zip": "530031"
+      },
+      "roles": ["General Manager"],
+      "department": "Structural",
+      "gender": "male",
+      "portrait": "portraits/admin.jpg",
+      "thumbnail": "portraits/admin-thumb.jpg"
+    },
 
 
 
