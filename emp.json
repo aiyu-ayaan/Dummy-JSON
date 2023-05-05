@@ -3,7 +3,7 @@
     "username": "sk",
     "password": "sk",
     "name": {
-      "first": "Shir SK ",
+      "first": "Shri SK ",
       "last": "Bhattacherjee"
     },
     "ssn": "123-45-6789",
@@ -33,7 +33,7 @@
     "username": "sinha",    
     "password": "sinha",
     "name": {
-      "first": "Shir SK",
+      "first": "Shri SK",
       "last": "Sinha"
     },
     "ssn": "123-45-6789",
@@ -94,7 +94,7 @@
     "username": "sunil",
     "password": "sunil",
     "name": {
-      "first": "Shir Sunil Kumar ",
+      "first": "Shri Sunil Kumar ",
       "last": "Verma"
     },
     "ssn": "123-45-6789",
@@ -125,7 +125,7 @@
     "username": "sanjay",
     "password": "sanjay",
     "name": {
-      "first": "Shir Sanjay",
+      "first": "Shri Sanjay",
       "last": "Kumar"
     },
     "ssn": "123-45-6789",
@@ -186,7 +186,7 @@
     "username": "subba",
     "password": "subba",
     "name": {
-      "first": "Shir P Subba",
+      "first": "Shri P Subba",
       "last": "Rao"
     },
     "ssn": "123-45-6789",
@@ -217,7 +217,7 @@
     "username": "kali",
     "password": "kali",
     "name": {
-      "first": "Shir Kali Kumar",
+      "first": "Shri Kali Kumar",
       "last": "Mishra"
     },
     "ssn": "123-45-6789",
@@ -278,7 +278,7 @@
     "username": "kamal",
     "password": "kamal",
     "name": {
-      "first": "Shir Kamal Kumar",
+      "first": "Shri Kamal Kumar",
       "last": "Shriwastva"
     },
     "ssn": "123-45-6789",
@@ -309,7 +309,7 @@
     "username": "prafull",
     "password": "prafull",
     "name": {
-      "first": "Shir  Prafull Kumar",
+      "first": "Shri  Prafull Kumar",
       "last": "Behera"
     },
     "ssn": "123-45-6789",
@@ -370,7 +370,7 @@
     "username": "manoj",
     "password": "manoj",
     "name": {
-      "first": "Shir Manoj",
+      "first": "Shri Manoj",
       "last": "Kumar"
     },
     "ssn": "123-45-6789",
@@ -401,7 +401,7 @@
     "username": "joydeep",
     "password": "joydeep",
     "name": {
-      "first": "Shir  Joydeep",
+      "first": "Shri  Joydeep",
       "last": "Dasgupta"
     },
     "ssn": "123-45-6789",
@@ -462,7 +462,7 @@
     "username": "sujit",
     "password": "sujit",
     "name": {
-      "first": "Shir Sujit",
+      "first": "Shri Sujit",
       "last": "Kumar"
     },
     "ssn": "123-45-6789",
@@ -493,7 +493,7 @@
     "username": "pk",
     "password": "pk",
     "name": {
-      "first": "Shir PK",
+      "first": "Shri PK",
       "last": "Das"
     },
     "ssn": "123-45-6789",
@@ -555,7 +555,7 @@
     "username": "ranjeet",
     "password": "ranjeet",
     "name": {
-      "first": "Shir Ranjeet",
+      "first": "Shri Ranjeet",
       "last": "Kumar"
     },
     "ssn": "123-45-6789",
@@ -585,7 +585,7 @@
     "username": "bk",
     "password": "bk",
     "name": {
-      "first": "Shir BK",
+      "first": "Shri BK",
       "last": "Bera"
     },
     "ssn": "123-45-6789",
@@ -615,7 +615,7 @@
     "username": "v",
     "password": "v",
     "name": {
-      "first": "Shir V",
+      "first": "Shri V",
       "last": "Selvaraj"
     },
     "ssn": "123-45-6789",
@@ -645,7 +645,7 @@
     "username": "s",
     "password": "s",
     "name": {
-      "first": "Shir S",
+      "first": "Shri S",
       "last": "Yogish"
     },
     "ssn": "123-45-6789",
@@ -675,7 +675,7 @@
     "username": "debabrata",
     "password": "debabrata",
     "name": {
-      "first": "Shir Debabrata",
+      "first": "Shri Debabrata",
       "last": "Chowdhuri"
     },
     "ssn": "123-45-6789",
@@ -705,7 +705,7 @@
     "username": "bijoy",
     "password": "bijoy",
     "name": {
-      "first": "Shir Bijoy Ketan",
+      "first": "Shri Bijoy Ketan",
       "last": "Parida"
     },
     "ssn": "123-45-6789",
@@ -735,7 +735,7 @@
     "username": "dilip",
     "password": "dilip",
     "name": {
-      "first": "Shir Dilip",
+      "first": "Shri Dilip",
       "last": "Kumar"
     },
     "ssn": "123-45-6789",
@@ -765,7 +765,7 @@
     "username": "arun",
     "password": "arun",
     "name": {
-      "first": "Shir Arun",
+      "first": "Shri Arun",
       "last": "Mondal"
     },
     "ssn": "123-45-6789",
@@ -2646,7 +2646,7 @@
     "address": {
       "street": "4569 Bollinger Rd",
       "city": "Rio Rancho",
-      "state": "New Hampshire",
+      "state": "New HampShrie",
       "zip": "76595"
     },
     "roles": ["hourly", "part time", "employee"],
@@ -3473,7 +3473,7 @@
   },
   {
     "username": "bluetiger546",
-    "password": "shirley",
+    "password": "Shriley",
     "name": {
       "first": "Hugh",
       "last": "Gonzalez"
@@ -4584,7 +4584,7 @@
     "address": {
       "street": "6055 Royal Ln",
       "city": "Fresno",
-      "state": "New Hampshire",
+      "state": "New HampShrie",
       "zip": "12031"
     },
     "roles": ["hourly", "full time", "employee"],
@@ -5638,7 +5638,7 @@
     "address": {
       "street": "4569 Bollinger Rd",
       "city": "Rio Rancho",
-      "state": "New Hampshire",
+      "state": "New HampShrie",
       "zip": "76595"
     },
     "roles": ["hourly", "part time", "employee"],
@@ -6465,7 +6465,7 @@
   },
   {
     "username": "bluetiger546",
-    "password": "shirley",
+    "password": "Shriley",
     "name": {
       "first": "Hugh",
       "last": "Gonzalez"
@@ -7576,7 +7576,7 @@
     "address": {
       "street": "6055 Royal Ln",
       "city": "Fresno",
-      "state": "New Hampshire",
+      "state": "New HampShrie",
       "zip": "12031"
     },
     "roles": ["hourly", "full time", "employee"],
