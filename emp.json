@@ -786,7 +786,7 @@
       "zip": "713323"
     },
     "roles": ["General Manager l/c"],
-    "department": "",
+    "department": "Metal",
     "gender": "male",
     "portrait": "portraits/admin.jpg",
     "thumbnail": "portraits/admin-thumb.jpg"
@@ -1305,6 +1305,7 @@
       "portrait": "portraits/admin.jpg",
       "thumbnail": "portraits/admin-thumb.jpg"
     },
+
 
 
 
